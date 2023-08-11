@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm japanese school student
+I'm japanese yowayowa puyogrammer
 
 <!--
 **kiji-haru/kiji-haru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
