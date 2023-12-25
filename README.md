@@ -1,8 +1,10 @@
 <div align='center'>
 <samp>
-Hi there 👋
-I'm japanese yowayowa puyogrammer
+よわよわです(本当に)
 </samp>
+
+  
+あと別にRubyは書いてません
 </div>
 <img align="left" alt="kiharu3112" src="https://github-readme-stats-kiharu3112.vercel.app/api?username=kiharu3112&show_icons=true&hide_border=true" />
 <img align="left" alt="kiharu3112" src="https://github-readme-stats-kiharu3112.vercel.app/api/top-langs/?username=kiharu3112&show_icons=true&hide_border=true" />
