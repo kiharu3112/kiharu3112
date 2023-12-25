@@ -4,7 +4,8 @@ Hi there 👋
 I'm japanese yowayowa puyogrammer
 </samp>
 </div>
-
+<img align="left" alt="kiharu3112" src="https://github-readme-stats-kiharu3112.vercel.app/api?username=kiharu3112&show_icons=true&hide_border=true" />
+<img align="left" alt="kiharu3112" src="https://github-readme-stats-kiharu3112.vercel.app/api/top-langs/?username=kiharu3112&show_icons=true&hide_border=true" />
 <!--
 **kiji-haru/kiji-haru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
