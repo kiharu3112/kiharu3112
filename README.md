@@ -1,6 +1,8 @@
 <div align='center'>
 <samp>
 よわよわです(本当に)
+所属: NITMC
+mail: me@kiharu.dev
 </samp>
 </div>
 <!-- API制限
